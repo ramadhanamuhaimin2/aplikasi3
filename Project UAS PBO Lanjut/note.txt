@@ -1,0 +1,11 @@
+mau nambah jadwal : pergilah ke jadwal.html -> submit -> InputJadwal.jsp
+
+mau liat jadwal : DataJadwal2.jsp
+
+DataKereta.jsp : itu praktikum kemarin, ga bisa di run
+
+edit.jsp : buat munculin form edit
+
+ProsesEdit.jsp : proses ngedit e
+
+database : tiket.sql (ini emang blm ditambahin tabel kelas)
